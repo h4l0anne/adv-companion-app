@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710422100594",
+    "firebase_url": "https://drugventure-companion-app.firebaseio.com",
+    "project_id": "drugventure-companion-app",
+    "storage_bucket": "drugventure-companion-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710422100594:android:04616ea86dbf7eb55220eb",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710422100594-8ouc1qiqeo6t94jh1m28jpvbi465itfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7qk2dV0SHrahML29sb2AvDl9gw942mXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710422100594-8ouc1qiqeo6t94jh1m28jpvbi465itfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
